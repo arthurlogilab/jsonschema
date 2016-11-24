@@ -1,0 +1,6 @@
+jsonschema (2.5.1.post35-1) unstable; urgency=low
+
+  * initial version
+
+
+ -- Arthur Lutz <arthur.lutz@logilab.fr>  Thu, 24 Nov 2016 16:46:17 +0000
